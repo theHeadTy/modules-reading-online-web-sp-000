@@ -7,6 +7,7 @@ class Dancer
   extend FancyDance::ClassMethods
   
   attr_accessor :name
+
 end
 
 # it 'extends the MetaDancing module' do
